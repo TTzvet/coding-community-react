@@ -1,4 +1,4 @@
-Community Application Prototype - Women's Coding Community
+Community Application Prototype Front-End - Women's Coding Community
 
 Steps to run the application:
 
