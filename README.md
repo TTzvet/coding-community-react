@@ -9,5 +9,3 @@ Install all dependencies using the command "npm install".
 To run the app type in "yarn start" (or "npm start" depending on which version you have locally).
 
 Please make sure that the app_api (https://github.com/TTzvet/coding-community-api.git) is already running.
-
-NB. CSS may not load at all times and if so - please go to Home and reload the page. 
